@@ -3,7 +3,7 @@
 /**
  * main - contains the main function
  * Printf - prints the sizeof
- * Return : Always Reurn 0 if Success
+ * Return: always (0)
  */
 
 int main(void)
